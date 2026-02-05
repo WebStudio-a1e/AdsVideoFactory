@@ -1,4 +1,8 @@
 \# AdsVideoFactory — PROJECT STATE
+## ÚLTIMA ACTUALIZACIÓN
+- Fecha:
+- Por:
+- Tarea Codex:
 
 \#\# PRODUCTO  
 \- Definición del producto: DEFINIDO (canónico)  
